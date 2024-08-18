@@ -1,0 +1,42 @@
+.footer-bottom{
+    height: 11.6rem;
+    background-color: #282828;
+}
+
+.footer-bottom{
+    width: 100%;
+}
+.footer-child{
+    float: left;
+    width:50%;
+    margin-top: 2em;
+    line-height: 20px;
+}
+
+
+.one{
+    margin-left: 40%; 
+    text-decoration: None;
+    color: white;
+}
+
+.one:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.two{
+    margin-left: 50%; 
+    text-decoration: None;
+    color: white;
+}
+
+
+.two:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.image-inline{
+    flex-direction: row;
+}
