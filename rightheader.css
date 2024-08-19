@@ -1,0 +1,16 @@
+.right-container{
+    background-color:  #FFCD9E;
+    width: 47%;
+    height: 98%;
+    float: right;
+}
+
+.right-container-item1{
+    background-color: #FFCD9E;
+    display: inline-block;
+    height: auto;
+    max-height: 99.9%;
+    width: auto;
+    max-height: 100%;
+}
+
